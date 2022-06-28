@@ -1,5 +1,5 @@
 #### 性别：男
-#### 已掌握语言、工具及框架: `PHP`、`Javascript`、`Laravel`、`Vue`、`MySQL`、`Redis`
+#### 已掌握语言、工具及框架: `PHP`、`Javascript`、`Laravel`、`Vue`、`MySQL`、`Redis`、`Docker`
 #### 平时爱好： 弹弹吉他、做做家务、做做饭、看看书、撸撸铁
 #### 喜欢的音乐人: 动力火车、陶喆、周杰伦
 ### 已掌握菜系：
