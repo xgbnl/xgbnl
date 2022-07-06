@@ -1,4 +1,4 @@
-#### 已掌握语言、工具及框架: `PHP`、`Javascript`、`Laravel`、`Vue`、`MySQL`、`Redis`
+#### 了解: `PHP`、`Javascript`、`Laravel`、`Vue`、`MySQL`、`Redis`
 #### 平时爱好： 弹弹吉他、做做家务、做做饭、看看书、撸撸铁
 #### 喜欢的音乐人: 动力火车、陶喆、周杰伦
 ### 目前已会做的家常菜和面食：
@@ -22,8 +22,5 @@
 ### 星座
 > 双鱼座
 ### 其它
-> 不抽烟,偶尔喝点酒,不蹦迪,会开车(9年驾龄),目前4块腹肌，以后会不会九九归一就不清楚了
-### 目前计划
-> 娶个媳妇儿❤️❤️❤️
-
+> 不抽烟,不喝酒
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xgbnl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
